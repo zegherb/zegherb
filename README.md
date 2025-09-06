@@ -13,10 +13,10 @@
 
 ## Media Sosial :
 
-[![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit)](https://www.reddit.com/user/WolverineInfinite670)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aldiansyahombi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/aldyansyah-ombi-31207b323)
-[![GitHub followers](https://img.shields.io/github/followers/zegherb?label=Follow&style=social)](https://github.com/zegherb)
+[<img src="https://cdn.simpleicons.org/reddit/FF4500" height="45" alt="Reddit"/>](https://www.reddit.com/user/WolverineInfinite670)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aldiansyahombi)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aldyansyah-ombi-31207b323)
+[![GitHub followers](https://skillicons.dev/icons?i=github)](https://github.com/zegherb)
 
 ## Skill :
 
