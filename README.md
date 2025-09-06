@@ -1,4 +1,4 @@
-# Halo 👋, Saya Zegherb
+# Halo 👋, Saya La Ode Muhammad Aldyansyah Ombi
 
 **Selamat datang di profil GitHub saya!**
 
