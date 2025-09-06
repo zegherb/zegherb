@@ -11,18 +11,18 @@
 
 **Sejak Mei 2021 di GitHub**
 
-## Media Sosial :
+## Media Sosial:
 
 [<img src="https://cdn.simpleicons.org/reddit/FF4500" height="45" alt="Reddit"/>](https://www.reddit.com/user/WolverineInfinite670)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aldiansyahombi)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aldyansyah-ombi-31207b323)
 [![GitHub followers](https://skillicons.dev/icons?i=github)](https://github.com/zegherb)
 
-## Skill :
+## Skill Yang Sedang Dikembangkan:
 
 [![Skill](https://skillicons.dev/icons?i=java,python,cpp,godot,cs,unity)](https://skillicons.dev)
 
-## GitHub Stats :
+## Statistik:
 ![Zegherb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zegherb&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zegherb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
