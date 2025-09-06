@@ -1,13 +1,15 @@
-# Halo 👋, Saya La Ode Muhammad Aldyansyah Ombi
+# Halo 👋, Saya Aldi
 
-**Selamat datang di profil GitHub saya!**
+**Selamat datang di profil GitHub saya.**
 
-- 🔭 Saat ini saya sedang mengerjakan: Pembuatan game pixel art
-- 🌱 Sedang belajar: Game Developer, Software Engineer, Python, Web Development
-- 👨‍💻 Portofolio: [https://www.aldyansyahombi.my.id/](https://zegherb.github.io)
-- 💬 Tanya saya tentang apa saja!
-- 📫 Hubungi saya: [Email](mailto:aldyansyahombi@email.com)
-- ⚡ Fakta menarik: Saya suka open source!
+- 🔭 Saat ini saya sedang mengembangkan: Game berbasis pixel art
+- 🌱 Sedang belajar: Game Developer, Software Engineer, Python, dan Web Development
+- 👨‍💻 Portofolio: [zegherb.github.io](https://zegherb.github.io)
+- 💬 Silakan berdiskusi atau bertanya seputar bidang teknologi, software, dan pendidikan.
+- 📫 Kontak: [Email](mailto:aldyansyahombi@email.com)
+- ⚡ Ketertarikan: Game, edukasi digital, dan inovasi teknologi.
+
+**Sejak Mei 2021 di GitHub**
 
 ### Media Sosial
 
