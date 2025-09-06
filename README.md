@@ -3,7 +3,7 @@
 **Selamat datang di profil GitHub saya.**
 
 - 🔭 Saat ini saya sedang mengembangkan: Game berbasis pixel art
-- 🌱 Sedang belajar: Game Developer, Software Engineer, Python, dan Web Development
+- 🌱 Sedang belajar: Game Developer, Software Engineer, Python
 - 👨‍💻 Portofolio: [aldyansyahombi.my.id](https://www.aldyansyahombi.my.id)
 - 💬 Silakan berdiskusi atau bertanya seputar bidang teknologi, software, dan pendidikan.
 - 📫 Kontak: [aldyansyahombi@gmail.com](mailto:aldyansyahombi@email.com)
@@ -11,7 +11,7 @@
 
 **Sejak Mei 2021 di GitHub**
 
-## Media Sosial
+## Media Sosial :
 
 [![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit)](https://www.reddit.com/user/WolverineInfinite670)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aldiansyahombi)
