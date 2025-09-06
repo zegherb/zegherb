@@ -4,7 +4,7 @@
 
 - 🔭 Saat ini saya sedang mengerjakan: Pembuatan game pixel art
 - 🌱 Sedang belajar: Game Developer, Software Engineer, Python, Web Development
-- 👨‍💻 Portofolio: [zegherb.github.io](https://zegherb.github.io)
+- 👨‍💻 Portofolio: [https://www.aldyansyahombi.my.id/](https://zegherb.github.io)
 - 💬 Tanya saya tentang apa saja!
 - 📫 Hubungi saya: [Email](mailto:aldyansyahombi@email.com)
 - ⚡ Fakta menarik: Saya suka open source!
