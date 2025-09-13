@@ -5,7 +5,6 @@
 - 🔭 Saat ini saya sedang mengembangkan: Game berbasis pixel art
 - 🌱 Sedang belajar: Game Developer, Software Engineer, Python
 - 👨‍💻 Portofolio: [aldyansyahombi.my.id](https://www.aldyansyahombi.my.id)
-- 💬 Silakan berdiskusi atau bertanya seputar bidang teknologi, software, dan pendidikan.
 - 📫 Kontak: [aldyansyahombi@gmail.com](mailto:aldyansyahombi@email.com)
 - ⚡ Ketertarikan: Game, edukasi digital, dan inovasi teknologi.
 
