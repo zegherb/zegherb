@@ -2,11 +2,11 @@
 
 **Selamat datang di profil GitHub saya.**
 
-- 🔭 Saat ini saya sedang mengembangkan: Game berbasis pixel art
-- 🌱 Sedang belajar: Game Developer, Software Engineer, Python
+- 🔭 Saat ini saya sedang mengembangkan: - 
+- 🌱 Sedang belajar: Cyber Security, Game Developer, AI, dan Python
 - 👨‍💻 Portofolio: [aldyansyahombi.my.id](https://www.aldyansyahombi.my.id)
 - 📫 Kontak: [aldyansyahombi@gmail.com](mailto:aldyansyahombi@email.com)
-- ⚡ Ketertarikan: Game, edukasi digital, dan inovasi teknologi.
+- ⚡ Ketertarikan: Game, edukasi digital, inovasi teknologi, dan keamanan siber.
 
 **Sejak Mei 2021 di GitHub**
 
@@ -19,7 +19,7 @@
 
 ## Skill Yang Sedang Dikembangkan:
 
-[![Skill](https://skillicons.dev/icons?i=java,python,cpp,godot,cs,unity)](https://skillicons.dev)
+[![Skill](https://skillicons.dev/icons?i=linux,javascript,python,php,metasploit,cpp,godot,cs,unity)](https://skillicons.dev)
 
 ## Statistik:
 ![Zegherb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zegherb&show_icons=true&theme=radical)
