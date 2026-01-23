@@ -19,7 +19,7 @@
 
 ## Skill Yang Sedang Dikembangkan:
 
-[![Skill](https://skillicons.dev/icons?i=linux,python)](https://skillicons.dev)
+[![Skill](https://skillicons.dev/icons?i=linux,python,django,java)](https://skillicons.dev)
 
 ## Statistik:
 ![Zegherb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zegherb&show_icons=true&theme=radical)
