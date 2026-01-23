@@ -20,16 +20,6 @@
 ## Skill Yang Sedang Dikembangkan:
 
 [![Skill](https://skillicons.dev/icons?i=linux,python,django,java)](https://skillicons.dev)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,python,django,java" />
-  </a>
-  <img src="https://img.shields.io/badge/Burp%20Suite-333333?style=for-the-badge&logo=burpsuite" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Nmap-333333?style=for-the-badge&logo=nmap" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Wireshark-333333?style=for-the-badge&logo=wireshark" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-333333?style=for-the-badge&logo=cisco" alt="Cisco Packet Tracer"/>
-  <img src="https://img.shields.io/badge/GNS3-333333?style=for-the-badge&logo=gns3" alt="GNS3"/>
-</p>
 
 ## Statistik:
 ![Zegherb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zegherb&show_icons=true&theme=radical)
