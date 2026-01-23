@@ -13,13 +13,13 @@
 ## Media Sosial:
 
 [<img src="https://cdn.simpleicons.org/reddit/FF4500" height="45" alt="Reddit"/>](https://www.reddit.com/user/WolverineInfinite670)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aldiansyahombi)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aldyansyahombi)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aldyansyah-ombi-31207b323)
 [![GitHub followers](https://skillicons.dev/icons?i=github)](https://github.com/zegherb)
 
 ## Skill Yang Sedang Dikembangkan:
 
-[![Skill](https://skillicons.dev/icons?i=linux,javascript,python,php,,cpp,godot,cs,unity)](https://skillicons.dev)
+[![Skill](https://skillicons.dev/icons?i=linux,python)](https://skillicons.dev)
 
 ## Statistik:
 ![Zegherb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zegherb&show_icons=true&theme=radical)
