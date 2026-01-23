@@ -3,7 +3,7 @@
 **Selamat datang di profil GitHub saya.**
 
 - 🔭 Saat ini saya sedang mengembangkan: - 
-- 🌱 Sedang belajar: Cyber Security, Game Developer, AI, dan Python
+- 🌱 Sedang belajar: Cyber Security, Jaringan Komputer, AI, dan Python
 - 👨‍💻 Portofolio: [aldyansyahombi.my.id](https://www.aldyansyahombi.my.id)
 - 📫 Kontak: [aldyansyahombi@gmail.com](mailto:aldyansyahombi@email.com)
 - ⚡ Ketertarikan: Game, edukasi digital, inovasi teknologi, dan keamanan siber.
