@@ -19,7 +19,13 @@
 
 ## Skill Yang Sedang Dikembangkan:
 
-[![Skill](https://skillicons.dev/icons?i=linux,python,django,java)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,python,django,flask,java" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="45" alt="burpsuite" />
+  <img src="https://cdn.simpleicons.org/wireshark/007AFF" height="45" alt="wireshark" />
+  <img src="https://cdn.simpleicons.org/cisco/00BFFF" height="45" alt="cisco" />
+</p>
 
 ## Statistik:
 ![Zegherb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zegherb&show_icons=true&theme=radical)
