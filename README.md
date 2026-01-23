@@ -25,9 +25,9 @@
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="45" alt="burpsuite" />
   <img src="https://cdn.simpleicons.org/wireshark/007AFF" height="45" alt="wireshark" />
   <img src="https://cdn.simpleicons.org/cisco/00BFFF" height="45" alt="cisco" />
-  <img src="https://cdn.simpleicons.org/metasploit/333333" height="40" alt="metasploit" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
-  <img src="https://cdn.simpleicons.org/owasp/black" height="40" alt="owasp" />
+  <img src="https://cdn.simpleicons.org/metasploit/4169E1" height="45" alt="metasploit" />
+  <img src="https://cdn.simpleicons.org/postman/FF4500" height="45" alt="postman" />
+  <img src="https://cdn.simpleicons.org/owasp/white" height="45" alt="owasp" />
 </p>
 
 ## Statistik:
