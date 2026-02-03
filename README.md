@@ -61,6 +61,9 @@ Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahomb
 - **Backend Developer**
 ---
 
+### 🏆 Certifications
+![Qualys Vulnerability Management Certificate](nama_file_sertifikat_lu.png)
+
 <h2 id="knowledge_skills">🛠️ Knowledge & Skill</h2>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
