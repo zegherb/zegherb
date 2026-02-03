@@ -62,7 +62,7 @@ Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahomb
 ---
 
 ### 🏆 Certifications
-![Qualys Vulnerability Management Certificate](nama_file_sertifikat_lu.png)
+![Qualys Vulnerability Management Certificate](qualys_sertifikat.jpeg)
 
 <h2 id="knowledge_skills">🛠️ Knowledge & Skill</h2>
 
