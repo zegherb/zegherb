@@ -26,7 +26,7 @@ Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahomb
   ### 👤 Tentang Saya
   - **Nama:** La Ode Muhammad Aldyansyah Ombi
   - **Lokasi:** Raha, Sulawesi Tenggara
-  - **Roles:** Bug Hunter | Security Researcher | Pentester | Backend Developer
+  - **Roles:** Cyber Security
   
   ### 🔧 Pengalaman
   - **Bug Hunting**
