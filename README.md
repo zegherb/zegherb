@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahombi/)**, seorang Bug Hunter/Pentester, dan calon Cyber Security Specialist. Dengan minat kuat pada teknologi terutama pada vulnerability assesment dan bug hunting, tujuan saya untuk melindungi aset digital dari serangan orang yang tidak bertanggung jawab dan menciptakan internet yang aman untuk semua kalangan. Selain itu, saya juga memiliki minat di dunia Computer Networking, Backend Developer dan Artificial Intelligence. 
+Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahombi/)**, dengan minat kuat pada teknologi terutama pada penetration testing dan cyber defense (SoC Analyst), tujuan saya untuk melindungi aset digital dari serangan orang yang tidak bertanggung jawab dan menciptakan internet yang aman untuk semua kalangan. Selain itu, saya juga memiliki minat di dunia Computer Networking, Backend Developer dan Artificial Intelligence. 
 <details>
   <summary><b>📋Lainnya tentang saya</b></summary>
   
@@ -28,15 +28,11 @@ Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahomb
   - **Lokasi:** Raha, Sulawesi Tenggara
   - **Roles:** Cyber Security
   
-  ### 🔧 Pengalaman
-  - **Bug Hunting**
-  - **Vulnerability Assessment**
-  
   ### 📚 Sedang Belajar
   - Belajar tentang Keamanan Siber (Cyber Security)
   - Jaringan Komputer
   - Backend Developer
-  - Machine Learning
+  - Artificial Intelligence
   - Python Programming
   
   ### 📫 Contact
@@ -53,10 +49,9 @@ Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahomb
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 ### 🎯 Current Focus
-- **Bug Hunting**   
-- **Computer Networking**  
-- **Machine Learning**   
-- **Cybersecurity**
+- **Penetration Testing**   
+- **Computer Networking**     
+- **Cyber Defense**
 - **Python Programming**
 - **Backend Developer**
 ---
@@ -122,7 +117,7 @@ Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahomb
 
 <div align="center">
   <h1 align="center"><img width="40px" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/fogoAzul.gif"><strong><em>"Jangan Menyerah, Tetap Semangat."</em></strong></h1>
-  <p>Sesungguhnya tingkat tertinggi dalam menuntut ilmu itu adalah kerendahan hati.</p>
+  <p>Keamanan sistem bukan dibangun oleh keberanian, tetapi oleh ketelitian dan disiplin.</p>
 </div>
 
 ---
