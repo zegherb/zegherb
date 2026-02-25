@@ -1,8 +1,8 @@
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" /> -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/>
-</p>
+</p> -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
