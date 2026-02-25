@@ -12,13 +12,12 @@
 
 ---
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 <h2 align="left">
   Hello Guyss
-  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 Saya **[La Ode Muhammad Aldyansyah Ombi](https://www.instagram.com/aldyansyahombi/)**, dengan minat kuat pada teknologi terutama pada penetration testing dan cyber defense (SoC Analyst), tujuan saya untuk melindungi aset digital dari serangan orang yang tidak bertanggung jawab dan menciptakan internet yang aman untuk semua kalangan. Selain itu, saya juga memiliki minat di dunia Computer Networking, Backend Developer dan Artificial Intelligence. 
 <details>
